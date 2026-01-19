@@ -35,11 +35,12 @@ This website is designed to look and feel like a **real premium gym brand**, not
 
 ## 🛠 Tech Stack
 
-- **Next.js** – App Router, fast rendering, modern structure
-- **Tailwind CSS** – Utility-first styling with clean design system
-- **GSAP** – Advanced timeline-based animations
-- **Framer Motion** – Page transitions & micro-interactions
-- **Responsive Design** – Mobile, tablet, desktop fully supported
+- **Next.js** – App Router, fast rendering, modern project structure
+- **TypeScript** – Type-safe development for better scalability and maintainability
+- **Tailwind CSS** – Utility-first styling with a clean, consistent design system
+- **GSAP** – Advanced timeline-based animations and scroll effects
+- **Framer Motion** – Smooth page transitions and micro-interactions
+- **Responsive Design** – Fully optimized for mobile, tablet, and desktop devices
 
 ---
 
