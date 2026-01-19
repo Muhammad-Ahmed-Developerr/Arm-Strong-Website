@@ -58,78 +58,85 @@ This website is designed to look and feel like a **real premium gym brand**, not
 
 ## 📸 Website Screenshots
 
-All screenshots are located inside the `assets/` folder.
+Below are selected screenshots showcasing different sections, layouts, and responsive views of the Arm Strong Gym website.  
+All screenshots are stored inside the `assets/` directory.
+
+---
 
 ### Screenshots 1–3
 <p align="center">
-  <img src="./assets/sc1.png" alt="Screenshot 1" width="300" /> &nbsp;
-  <img src="./assets/sc2.png" alt="Screenshot 2" width="300" /> &nbsp;
-  <img src="./assets/sc3.png" alt="Screenshot 3" width="300" />
+  <img src="./assets/sc1.png" alt="Homepage Hero Section" width="300" /> &nbsp;
+  <img src="./assets/sc2.png" alt="About Section" width="300" /> &nbsp;
+  <img src="./assets/sc3.png" alt="Training Programs Section" width="300" />
 </p>
 
 ### Screenshots 4–6
 <p align="center">
-  <img src="./assets/sc4.png" alt="Screenshot 4" width="300" /> &nbsp;
-  <img src="./assets/sc5.png" alt="Screenshot 5" width="300" /> &nbsp;
-  <img src="./assets/sc6.png" alt="Screenshot 6" width="300" />
+  <img src="./assets/sc4.png" alt="Classes Section" width="300" /> &nbsp;
+  <img src="./assets/sc5.png" alt="Trainers Section" width="300" /> &nbsp;
+  <img src="./assets/sc6.png" alt="Membership Plans" width="300" />
 </p>
 
 ### Screenshots 7–9
 <p align="center">
-  <img src="./assets/sc7.png" alt="Screenshot 7" width="300" /> &nbsp;
-  <img src="./assets/sc8.png" alt="Screenshot 8" width="300" /> &nbsp;
-  <img src="./assets/sc9.png" alt="Screenshot 9" width="300" />
+  <img src="./assets/sc7.png" alt="Gallery Section" width="300" /> &nbsp;
+  <img src="./assets/sc8.png" alt="CTA Section" width="300" /> &nbsp;
+  <img src="./assets/sc9.png" alt="Testimonials Section" width="300" />
 </p>
 
 ### Screenshots 10–12
 <p align="center">
-  <img src="./assets/sc10.png" alt="Screenshot 10" width="300" /> &nbsp;
-  <img src="./assets/sc11.png" alt="Screenshot 11" width="300" /> &nbsp;
-  <img src="./assets/sc12.png" alt="Screenshot 12" width="300" />
+  <img src="./assets/sc10.png" alt="Mobile View 1" width="300" /> &nbsp;
+  <img src="./assets/sc11.png" alt="Mobile View 2" width="300" /> &nbsp;
+  <img src="./assets/sc12.png" alt="Mobile View 3" width="300" />
 </p>
 
 ### Screenshots 13–15
 <p align="center">
-  <img src="./assets/sc13.png" alt="Screenshot 13" width="300" /> &nbsp;
-  <img src="./assets/sc14.png" alt="Screenshot 14" width="300" /> &nbsp;
-  <img src="./assets/sc15.png" alt="Screenshot 15" width="300" />
+  <img src="./assets/sc13.png" alt="Tablet View 1" width="300" /> &nbsp;
+  <img src="./assets/sc14.png" alt="Tablet View 2" width="300" /> &nbsp;
+  <img src="./assets/sc15.png" alt="Tablet View 3" width="300" />
 </p>
 
 ### Screenshots 16–18
 <p align="center">
-  <img src="./assets/sc16.png" alt="Screenshot 16" width="300" /> &nbsp;
-  <img src="./assets/sc17.png" alt="Screenshot 17" width="300" /> &nbsp;
-  <img src="./assets/sc18.png" alt="Screenshot 18" width="300" />
+  <img src="./assets/sc16.png" alt="Animation Showcase 1" width="300" /> &nbsp;
+  <img src="./assets/sc17.png" alt="Animation Showcase 2" width="300" /> &nbsp;
+  <img src="./assets/sc18.png" alt="Animation Showcase 3" width="300" />
 </p>
 
 ### Screenshots 19–21
 <p align="center">
-  <img src="./assets/sc19.png" alt="Screenshot 19" width="300" /> &nbsp;
-  <img src="./assets/sc20.png" alt="Screenshot 20" width="300" /> &nbsp;
-  <img src="./assets/sc21.png" alt="Screenshot 21" width="300" />
+  <img src="./assets/sc19.png" alt="Dark UI Section" width="300" /> &nbsp;
+  <img src="./assets/sc20.png" alt="Scroll Animation View" width="300" /> &nbsp;
+  <img src="./assets/sc21.png" alt="Layout Detail View" width="300" />
 </p>
 
 ### Screenshots 22–24
 <p align="center">
-  <img src="./assets/sc22.png" alt="Screenshot 22" width="300" /> &nbsp;
-  <img src="./assets/sc23.png" alt="Screenshot 23" width="300" /> &nbsp;
-  <img src="./assets/sc24.png" alt="Screenshot 24" width="300" />
+  <img src="./assets/sc22.png" alt="Responsive Layout 1" width="300" /> &nbsp;
+  <img src="./assets/sc23.png" alt="Responsive Layout 2" width="300" /> &nbsp;
+  <img src="./assets/sc24.png" alt="Responsive Layout 3" width="300" />
 </p>
 
 ### Screenshots 25–27
 <p align="center">
-  <img src="./assets/sc25.png" alt="Screenshot 25" width="300" /> &nbsp;
-  <img src="./assets/sc26.png" alt="Screenshot 26" width="300" /> &nbsp;
-  <img src="./assets/sc27.png" alt="Screenshot 27" width="300" />
+  <img src="./assets/sc25.png" alt="UI Detail 1" width="300" /> &nbsp;
+  <img src="./assets/sc26.png" alt="UI Detail 2" width="300" /> &nbsp;
+  <img src="./assets/sc27.png" alt="UI Detail 3" width="300" />
 </p>
 
-### Screenshots 28–31
+### Screenshots 28–32
 <p align="center">
-  <img src="./assets/sc28.png" alt="Screenshot 28" width="300" /> &nbsp;
-  <img src="./assets/sc29.png" alt="Screenshot 29" width="300" /> &nbsp;
-  <img src="./assets/sc30.png" alt="Screenshot 30" width="300" />
-    <img src="./assets/sc31.png" alt="Screenshot 31" width="300" /> &nbsp;
+  <img src="./assets/sc28.png" alt="Final View 1" width="300" /> &nbsp;
+  <img src="./assets/sc29.png" alt="Final View 2" width="300" /> &nbsp;
+  <img src="./assets/sc30.png" alt="Final View 3" width="300" />
 </p>
+
+<p align="center">
+  <img src="./assets/sc31.png" alt="Final View 4" width="300" /> &nbsp;
+</p>
+
 
 ---
 
