@@ -126,7 +126,7 @@ All screenshots are stored inside the `assets/` directory.
   <img src="./assets/sc27.png" alt="UI Detail 3" width="300" />
 </p>
 
-### Screenshots 28–32
+### Screenshots 28–31
 <p align="center">
   <img src="./assets/sc28.png" alt="Final View 1" width="300" /> &nbsp;
   <img src="./assets/sc29.png" alt="Final View 2" width="300" /> &nbsp;
