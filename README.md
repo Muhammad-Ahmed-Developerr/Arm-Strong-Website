@@ -123,17 +123,12 @@ All screenshots are located inside the `assets/` folder.
   <img src="./assets/sc27.png" alt="Screenshot 27" width="300" />
 </p>
 
-### Screenshots 28–30
+### Screenshots 28–31
 <p align="center">
   <img src="./assets/sc28.png" alt="Screenshot 28" width="300" /> &nbsp;
   <img src="./assets/sc29.png" alt="Screenshot 29" width="300" /> &nbsp;
   <img src="./assets/sc30.png" alt="Screenshot 30" width="300" />
-</p>
-
-### Screenshots 31–32
-<p align="center">
-  <img src="./assets/sc31.png" alt="Screenshot 31" width="300" /> &nbsp;
-  <img src="./assets/sc32.png" alt="Screenshot 32" width="300" />
+    <img src="./assets/sc31.png" alt="Screenshot 31" width="300" /> &nbsp;
 </p>
 
 ---
