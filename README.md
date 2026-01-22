@@ -16,7 +16,7 @@
 Arm Strong Gym is a **fully frontend**, **high-performance**, and **modern UI/UX** fitness website built with cutting-edge web technologies.  
 This project focuses on **visual impact**, **smooth animations**, and **perfect responsiveness** across all devices.
 
-Live Website 👉 **https://arm-strong.netlify.app**
+Live Website 👉 **https://arm-strong.vercel.app**
 
 ---
 
@@ -143,7 +143,7 @@ All screenshots are stored inside the `assets/` directory.
 
 ## 🌐 Live Demo
 
-🔗 **https://arm-strong.netlify.app**
+🔗 **https://arm-strong.vercel.app**
 
 ---
 
