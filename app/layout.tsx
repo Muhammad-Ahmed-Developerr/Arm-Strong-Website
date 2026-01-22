@@ -11,7 +11,7 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://arm-strong.netlify.app"),
+  metadataBase: new URL("https://arm-strong.vercel.app"),
 
   title: {
     default: "Arm Strong Gym – Premium Fitness & Strength Training",
@@ -63,7 +63,7 @@ export const metadata: Metadata = {
 
   openGraph: {
     type: "website",
-    url: "https://arm-strong.netlify.app",
+    url: "https://arm-strong.vercel.app",
     title: "Arm Strong Gym – Premium Fitness & Strength Training",
     description:
       "Join Arm Strong Gym for elite fitness training, expert coaches, modern equipment, and complete body transformation.",
@@ -87,7 +87,7 @@ export const metadata: Metadata = {
   },
 
   alternates: {
-    canonical: "https://arm-strong.netlify.app",
+    canonical: "https://arm-strong.vercel.app",
   },
 }
 
